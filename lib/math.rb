@@ -11,14 +11,14 @@ division = num2 / num1
 end
 division(50,2)
 def multiplication(num1, num2)
-  multiplication = num2 * num1
+multiplication = num2 * num1
 end
 multiplcation(4,30)
 def modulo(num1, num2)
-  modulo = num2 % num1
+modulo = num2 % num1
 end
 modulo(34,5)
 def square_root(num)
-  square_root = num2 ** num1
+square_root = num2 ** num1
 end
 square_root(81)
