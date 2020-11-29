@@ -17,7 +17,7 @@ end
 division(50,2)
 
 def multiplication(num1, num2)
-multiplication = num2 * num1
+multiplication = num1 * num2
 end
 
 multiplcation(4,30)
